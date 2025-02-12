@@ -1,11 +1,11 @@
 <br />
-<img src="/change_language/public/tort.png" width="500" alt="My Image">
+<img src="/public/tort.png" width="500" alt="My Image">
 <br />
-<img src="/change_language/public/bir.png" width="500" alt="My Image">
+<img src="/public/bir.png" width="500" alt="My Image">
 <br />
-<img src="/change_language/public/ikki.png" width="500" alt="My Image">
+<img src="/public/ikki.png" width="500" alt="My Image">
 <br />
-<img src="/change_language/public/uch.png" width="500" alt="My Image">
+<img src="/public/uch.png" width="500" alt="My Image">
 <br /><br />
 ## Getting Started
 
